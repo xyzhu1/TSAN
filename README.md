@@ -1,2 +1,3 @@
 # TSAN
-*Xiangyuan Zhu; Kehua Guo; Hui Fang; Rui Ding; Zheng Wu; Gerald Schaefer. "Gradient-Based Graph Attention for Scene Text Image Super-Resolution" (AAAI2023)
+This is the official code of our paper "Gradient-Based Graph Attention for Scene Text Image Super-Resolution" (AAAI2023)
+# Coming Soon
